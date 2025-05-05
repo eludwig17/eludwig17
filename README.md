@@ -1,5 +1,9 @@
-I'll do this later
--elijah
+# Hi! I'm Elijah
+
+
+-- still working on filling this out --
+🎓 I am currently pursuing my Bachelor's in Computer Science
+
 
 <!--
 **eludwig17/eludwig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
