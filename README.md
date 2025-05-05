@@ -2,6 +2,7 @@
 
 
 -- still working on filling this out --
+
 🎓 I am currently pursuing my Bachelor's in Computer Science
 
 
