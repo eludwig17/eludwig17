@@ -2,8 +2,11 @@
 
 🎓 I am currently pursuing my Bachelor's in Computer Science
 Expected Graduation - May 2025
+
 🌱 I’m currently learning front-end dev in JavaScript using react, node.js, and flask
+
 🔭 I’m currently working on specialized program for individuals and teams that integrates with AD
+
 🧰⚙️ I do mechanical and detailing work on automobiles
 
 <!--
