@@ -1,6 +1,6 @@
 # Hi! I'm Elijah
 
-- 📫 How to reach me: elijahlud17@gmail.com
+📫 How to reach me: elijahlud17@gmail.com
 
 🎓 I am currently pursuing my Bachelor's in Computer Science
 Expected Graduation - May 2025
