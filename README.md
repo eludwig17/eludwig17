@@ -5,7 +5,7 @@
 🎓 I am currently pursuing my Bachelor's in Computer Science
 Expected Graduation - May 2025
 
-🌱 I’m currently learning front-end dev in JavaScript using react, node.js, and flask
+🌱 I’m currently learning front-end dev in JavaScript using react & flask
 
 🔭 I’m currently working on customized web application for individuals and teams
 
