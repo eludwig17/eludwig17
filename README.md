@@ -7,7 +7,7 @@ Expected Graduation - May 2025
 
 🌱 I’m currently learning front-end dev using react & flask
 
-🔭 I’m currently working on customized web application for individuals and teams
+🔭 I’m currently working on customized web application for individuals and organizations
 
 🧰⚙️ I do mechanical and detailing work on automobiles
 
