@@ -1,27 +1,12 @@
-# Hi! I'm Elijah
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-📫 How to reach me: elijahlud17@gmail.com
+I’m [**Elijah**](), a Computer Science Student based in Los Angeles, CA.
 
-🎓 I am currently pursuing my Bachelor's in Computer Science
-Expected Graduation - May 2025
+My main tech stack is react and python.
 
-🌱 I’m currently learning front-end dev using react & flask
+I’ve got a few projects, but my favorite is the [AI Security Camera](https://github.com/eludwig17/AI-Security-Camera).
 
-🔭 I’m currently working on customized web application for individuals and organizations
+#### Fun Facts:
 
-🧰⚙️ I do mechanical and detailing work on automobiles
-
-<!--
-**eludwig17/eludwig17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I work on cars and motorcycles
+* **Hobbies:** gym, building things, working on vehicles
