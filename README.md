@@ -9,4 +9,4 @@ I’ve got a few projects, but my favorite is the [AI Security Camera](https://g
 #### Fun Facts:
 
 * I work on cars and motorcycles
-* **Hobbies:** gym, building things, working on vehicles
+* **Hobbies:** gym, building things
