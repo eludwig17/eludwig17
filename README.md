@@ -4,7 +4,7 @@ I’m [**Elijah**](), a Computer Science Student based in Los Angeles, CA.
 
 My main tech stack is react and python.
 
-I’ve got a few projects, but my favorite is the [AI Security Camera](https://github.com/eludwig17/AI-Security-Camera).
+I’ve got a few projects, but my favorite project that is currently being built is my [AI Security Camera](https://github.com/eludwig17/AI-Security-Camera).
 
 #### Fun Facts:
 
